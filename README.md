@@ -1,4 +1,4 @@
-To run a single analyses:
+To run a single analysis:
 - change any variables at bottom of analysis.js then run `node analysis.js`
 
 To run an optimization:
